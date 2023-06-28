@@ -1,8 +1,9 @@
 # Code_Clause_ImageBackground_Remover
-Created with CodeSandbox : A CodeClause Internship Project
+Created with CodeSandbox : A CodeClause Internship Project.
+
 [Click here](https://megha2601.github.io/Code_Clause_ImageBackground_Remover/) to see the project in live mode.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
