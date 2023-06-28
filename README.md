@@ -1,5 +1,5 @@
 # Code_Clause_ImageBackground_Remover
-Created with CodeSandbox
+Created with CodeSandbox : A CodeClause Internship Project
 
 # Getting Started with Create React App
 
